@@ -50,7 +50,7 @@ void draw() {
   //mx + "." + my + ".png"
 }
 
-void mouseClicked() {
+void mouseClicked() {//test
   if (upDown) {
     upDown = false;
   } else {   
